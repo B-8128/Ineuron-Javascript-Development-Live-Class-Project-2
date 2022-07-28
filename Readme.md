@@ -47,7 +47,7 @@
 
 # HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
 <!-- ># [LIVE [HOSTED] PROJECT LINK](https://brijesh8128-live-class-project-1.netlify.app/ "Project-1-Netlify") -->
->![Screenshot](./Screenshot/Screenshot.png)
+>![Screenshot](./screenshot/screenshot.png)
 
 
 >## For any query you can reach out at brijeshvadaliya1@gmail.com I am happy to help 😎
